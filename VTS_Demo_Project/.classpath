@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/client-combined-3.141.59_old.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/extentreports-2.41.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/ooxml-schemas-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/poi-3.5-beta4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/poi-ooxml-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/poi-ooxml-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/poi-src-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/sikuli-java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/winium-elements-desktop-0.2.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/winium-elements-desktop-0.2.0-1_2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/winium-webdriver-0.1.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/winium-webdriver-0.1.0-1_2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/puneet/Desktop/Automation/jars&amp;drivers/jars&amp;drivers/BIRAutomation_lib/xmlbeans-2.4.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
